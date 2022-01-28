@@ -4,6 +4,6 @@
 2. DLL библиотеку для обновления автоперевода
 3. Архивы с переводом
 
-Проверка моей DLL в virustotal: https://www.virustotal.com/gui/file/d4bf54a9c60c01800a3e71d0436490232e4c455a9c9557200255bcd2045f3dd7
+Проверка моей DLL в virustotal: https://www.virustotal.com/gui/file/522bc05e782c93d12c9c58576bbd5076aaa115f2ef5eb360703ad003fa9e3c7c
 
-Проверка моего exe в virustotal: https://www.virustotal.com/gui/file/8988322cc0c8a79c38914be2104d2fc0cbb8b07ce0b452b2b6d06c9b445867c6
+Проверка моего exe в virustotal: https://www.virustotal.com/gui/file/f63126dc87f9f8822ab2a65ade8ddbfb762c4ee084b8cab33e67ef3ccf151f54
